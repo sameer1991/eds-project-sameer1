@@ -3,8 +3,7 @@
     "id": "main",
     "components": [
       "section",
-      "text",
-      "price-tag"
+      "text"
 
     ]
   },
@@ -18,7 +17,8 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "price-tag"
     ]
   },
   {
