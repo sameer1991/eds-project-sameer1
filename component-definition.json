@@ -158,6 +158,27 @@
           }
         }
       ]
+    },
+    {
+      "title": "pricing_options",
+      "id": "pricing",
+      "components": [
+        {
+          "title": "Price_Tag",
+          "id": "price_tag",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Price_Tag",
+                  "model": "price_tag"
+                }
+              }
+            }
+          }
+        }
+      ]
     }
   ]
 }

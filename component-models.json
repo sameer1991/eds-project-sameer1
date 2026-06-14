@@ -24,6 +24,27 @@
     ]
   },
   {
+    "id": "price_tag",
+    "fields":[
+      {
+        "component": "text",
+        "name": "mrp",
+        "label": "MRP"
+      },
+      {
+        "component": "text",
+        "name": "discount",
+        "label": "Disocunt%"
+      },
+      {
+        "component": "text",
+        "name": "final_price",
+        "label": "Final Price"
+      }
+    ]
+
+  },
+  {
     "id": "image",
     "fields": [
       {
