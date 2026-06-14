@@ -4,14 +4,8 @@
     "components": [
       "section",
       "text",
-      "pricing"
-
-    ]
-  },
-  {
-    "id":"pricing",
-    "components":[
       "price_tag"
+
     ]
   },
   {
