@@ -24,7 +24,7 @@
     ]
   },
   {
-    "id": "price_tag",
+    "id": "price-tag",
     "fields":[
       {
         "component": "text",
@@ -38,7 +38,7 @@
       },
       {
         "component": "text",
-        "name": "final_price",
+        "name": "final-price",
         "label": "Final Price"
       }
     ]

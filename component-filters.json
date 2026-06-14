@@ -4,7 +4,7 @@
     "components": [
       "section",
       "text",
-      "price_tag"
+      "price-tag"
 
     ]
   },

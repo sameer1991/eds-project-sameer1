@@ -1,0 +1,17 @@
+.price-tag > div {
+  display: grid;
+  grid-template-columns: minmax(8rem, max-content) 1fr;
+  gap: 0.75rem;
+  align-items: baseline;
+  padding: 0.25rem 0;
+}
+
+.price-tag > div > div:first-child {
+  font-weight: 700;
+}
+
+.price-tag-final-price {
+  border-top: 1px solid var(--dark-color);
+  margin-top: 0.5rem;
+  padding-top: 0.75rem;
+}
