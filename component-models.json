@@ -24,7 +24,7 @@
     ]
   },
   {
-    "id": "price_tag1",
+    "id": "price_tag",
     "fields":[
       {
         "component": "text",
