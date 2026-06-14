@@ -2,9 +2,7 @@
   {
     "id": "main",
     "components": [
-      "section",
-      "text"
-
+      "section"
     ]
   },
   {

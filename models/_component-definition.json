@@ -32,7 +32,25 @@
       "id": "blocks",
       "components": [
         {
-          "...": "../blocks/*/_*.json#/definitions"
+          "...": "../blocks/cards/_cards.json#/definitions"
+        },
+        {
+          "...": "../blocks/columns/_columns.json#/definitions"
+        },
+        {
+          "...": "../blocks/fragment/_fragment.json#/definitions"
+        },
+        {
+          "...": "../blocks/hero/_hero.json#/definitions"
+        }
+      ]
+    },
+    {
+      "title": "Pricing",
+      "id": "pricing",
+      "components": [
+        {
+          "...": "../blocks/price-tag/_price-tag.json#/definitions"
         }
       ]
     }

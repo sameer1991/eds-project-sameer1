@@ -24,27 +24,6 @@
     ]
   },
   {
-    "id": "price-tag",
-    "fields":[
-      {
-        "component": "text",
-        "name": "mrp",
-        "label": "MRP"
-      },
-      {
-        "component": "text",
-        "name": "discount",
-        "label": "Disocunt%"
-      },
-      {
-        "component": "text",
-        "name": "final-price",
-        "label": "Final Price"
-      }
-    ]
-
-  },
-  {
     "id": "image",
     "fields": [
       {
@@ -57,11 +36,6 @@
         "component": "text",
         "name": "imageAlt",
         "label": "Alt Text"
-      },
-      {
-        "component": "text",
-        "name": "testname",
-        "label": "testingtext"
       }
     ]
   },
@@ -71,8 +45,7 @@
       {
         "component": "text",
         "name": "title",
-        "label": "Title",
-        "custom_value":"text123"
+        "label": "Title"
       },
       {
         "component": "select",
@@ -239,6 +212,26 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "price-tag",
+    "fields": [
+      {
+        "component": "text",
+        "name": "mrp",
+        "label": "MRP"
+      },
+      {
+        "component": "text",
+        "name": "discount",
+        "label": "Discount %"
+      },
+      {
+        "component": "text",
+        "name": "final-price",
+        "label": "Final Price"
       }
     ]
   }
