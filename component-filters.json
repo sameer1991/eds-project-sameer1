@@ -9,6 +9,12 @@
     ]
   },
   {
+    "id":"pricing",
+    "components":[
+      "price_tag"
+    ]
+  },
+  {
     "id": "section",
     "components": [
       "text",
