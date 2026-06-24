@@ -142,6 +142,48 @@
     ]
   },
   {
+    "id": "article-feed",
+    "fields": [
+      {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "source",
+        "label": "Source Path",
+        "value": ""
+      },
+      {
+        "component": "number-input",
+        "valueType": "number",
+        "name": "limit",
+        "label": "Article Limit",
+        "value": 6
+      },
+      {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "keywords",
+        "label": "Keywords (comma-separated)",
+        "value": ""
+      },
+      {
+        "component": "select",
+        "valueType": "string",
+        "name": "layout",
+        "label": "Layout",
+        "options": [
+          {
+            "name": "Grid",
+            "value": "grid"
+          },
+          {
+            "name": "List",
+            "value": "list"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "card",
     "fields": [
       {

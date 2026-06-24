@@ -42,6 +42,9 @@
         },
         {
           "...": "../blocks/hero/_hero.json#/definitions"
+        },
+        {
+          "...": "../blocks/article-feed/_article-feed.json#/definitions"
         }
       ]
     },

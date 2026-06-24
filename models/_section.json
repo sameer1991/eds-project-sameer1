@@ -51,7 +51,8 @@
         "cards",
         "columns",
         "fragment",
-        "price-tag"
+        "price-tag",
+        "article-feed"
       ]
     }
   ]
