@@ -1,0 +1,48 @@
+{
+  "total": 4,
+  "offset": 0,
+  "limit": 4,
+  "data": [
+    {
+      "path": "/content/wknd/en/magazine/ski-touring",
+      "title": "Ski Touring",
+      "description": "Explore the thrilling world of ski touring and discover the best routes for all skill levels.",
+      "image": "https://picsum.photos/seed/wknd1/800/450",
+      "tags": "dev,tutorial,beginner",
+      "author": "Sameer",
+      "publishDate": "2024-01-15",
+      "readTime": "5 min read"
+    },
+    {
+      "path": "/content/wknd/en/magazine/guide-la-skateparks",
+      "title": "Ultimate Guide to LA Skateparks",
+      "description": "Your complete guide to the best skateparks in Los Angeles, from beginner spots to pro-level parks.",
+      "image": "https://picsum.photos/seed/wknd2/800/450",
+      "tags": "dev,advanced",
+      "author": "Sameer",
+      "publishDate": "2024-02-20",
+      "readTime": "8 min read"
+    },
+    {
+      "path": "/content/wknd/en/magazine/arctic-surfing",
+      "title": "Arctic Surfing",
+      "description": "Brave the icy waters and discover the raw beauty of surfing in the Arctic — an experience like no other.",
+      "image": "https://picsum.photos/seed/wknd3/800/450",
+      "tags": "author,beginner",
+      "author": "Sameer",
+      "publishDate": "2024-03-10",
+      "readTime": "6 min read"
+    },
+    {
+      "path": "/content/wknd/en/magazine/western-australia",
+      "title": "Western Australia",
+      "description": "Discover the stunning landscapes, world-class surf breaks, and unique wildlife of Western Australia.",
+      "image": "https://picsum.photos/seed/wknd4/800/450",
+      "tags": "dev,author,advanced",
+      "author": "Sameer",
+      "publishDate": "2024-04-05",
+      "readTime": "9 min read"
+    }
+  ],
+  ":type": "sheet"
+}
